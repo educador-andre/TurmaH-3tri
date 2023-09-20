@@ -6,8 +6,8 @@ Pensamento Computacional - 1 ano
 
 # :earth_americas: Formado em Geografia :globe_with_meridians:
 
-Não atuo no componente 
+Não atuo no componente :grimacing:
 
-Sem experiencia em Programação
+Sem experiencia em Programação :skull:
 
 Tema do Projeto: Indefinido:star2:
