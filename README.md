@@ -4,3 +4,6 @@ Pensamento Computacional - 1 ano
 # Formado em Geografia :globe_with_meridians:
 
 Não atuo no componente 
+
+Sem experiencia em Programação
+Tema do Projeto: Indefinido
