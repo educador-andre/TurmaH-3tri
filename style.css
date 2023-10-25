@@ -7,17 +7,17 @@ h1{
     text-decoration-line: overline;
     color:#2E4159;
     }
-p{
+p1{
     color: #2E4159;
     font-size: 30px;
     text-align: justify;
    }
-   p{
+   p2{
     color: #2E4159;
     font-size: 26px;
     text-align: justify;
 }
-p{ color:aqua;
+p3{ color:aqua;
     font-size: 40px;
     text-align: justify;
 }
