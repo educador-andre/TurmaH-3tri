@@ -1,14 +1,14 @@
 body{
-    background-color:azure;
+    background-color:#64732F;
 }
 h1{
     font-size: 40px;
     text-align: center;
     text-decoration-line: overline;
-    color:blueviolet;
+    color:#2E4159;
 }
 p{
-    color: red;
+    color: #94C6F2;
     font-size: 20px;
     text-align: justify;
 }
