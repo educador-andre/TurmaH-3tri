@@ -16,8 +16,7 @@ p1{
     font-size: 30px;
     text-align: justify;
 }
-p2{ color:rgb(113, 196, 30);
-    font-size: 40px;
-    text-align: center;
-    margin-block: 233;
+p2{ text-align: center;
+    color:rgb(113, 196, 30);
+    font-size: 60px;
 }
